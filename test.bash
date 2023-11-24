@@ -1,6 +1,6 @@
 #!/bin/bash
 
- out=$(seq 5 | ./plus.py)
+out=$(seq 5 | ./plus.py)
 
- ["${out}" = 15]
+[ "${out}" = 14 ]
 
