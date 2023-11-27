@@ -17,6 +17,11 @@
 # plusコマンド
 * ![test](https://github.com/shinnosuke1230/robosys2023/actions/workflows/test.yml/badge.svg)
 * 標準状態から読み込んだ数字を足す。
+## 必要なソフトウェア
+* Python 
+  * テスト済み: 3.7 ～ 3.10
+## テスト環境
+* Ubuntu 20.24 
 
 # 権利
 * このソフトウェアパッケージは、３条項BSDライセンスの下、使用が許可されます
