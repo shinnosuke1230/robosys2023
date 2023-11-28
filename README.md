@@ -6,23 +6,17 @@
  
 # インストール方法
 * 1:リポジトリをクローンします。
-　　'''bash
     git clone https://github.com/shinnosuke1230/robosys2023.git
-    '''
 * 2:プロジェクトディレクトリに移動します。
-　　'''bash
     cd robosys2023/
-    '''
 * 3:プログラムをビルドします。
-　　'''bash
-    make
-    '''
+　　make
 
 # 使用例
 * 下記のように実行します。
-:~/robosys2023$ seq 5 | ./plus.py
+  seq 5 | ./plus.py
 * 実行結果は下記のように表示されます。
-15
+  15
 
 # 環境
 * Windows11のUbuntu 20.04で実行可能です。
