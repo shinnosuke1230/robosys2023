@@ -16,7 +16,7 @@
 
 # 使用例
 * 下記のように実行します。
-sitsnk@shin1230:~/robosys2023$ seq 5 | ./plus.py
+:~/robosys2023$ seq 5 | ./plus.py
 * 実行結果は下記のように表示されます。
 15
 
