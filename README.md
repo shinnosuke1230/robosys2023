@@ -4,10 +4,14 @@
 # 何をするためのソフトか
 * ファイルplus.pyのプログラムコードは、任意の数を実行時に入力すると、その数までを1から順に足していき、その結果を表示することができるものです。
  
+# インストール方法
+
+
+# 使用方法
 
 
 # 環境
-* DELL Windows11のUbuntu 20.04で実行可能です。
+* Windows11のUbuntu 20.04で実行可能です。
 
 
 # plusコマンド
@@ -18,14 +22,9 @@
 ## テスト環境
 * Ubuntu 20.24 
 
-# 作者
-* 斉藤真之介
-* 千葉工業大学未来ロボティクス学科
-* s22C1051QY@s.chibakoudai.jp
-
 # ライセンス
-* このソフトウェアパッケージは、３条項BSDライセンスの下、使用が許可されます
-* このパッケージは、３条項BSDライセンスのもとryuichiueda/emcl由来のコード(© 2023 Ryuichi Ueda)を使用しています。
+* このソフトウェアパッケージは、GNU General Public License v3.0の下、使用が許可されます
+* このパッケージは、GNU General Public License v3.0のもとryuichiueda/emcl由来のコード(© 2023 Ryuichi Ueda)を使用しています。
 * このパッケージのコードは下記のスライド( CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としたものです。
 * [ryuichiueda/my slides robosys 2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2023)
 * ©　2023 Shinnosuke Saito
