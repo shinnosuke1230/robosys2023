@@ -24,7 +24,7 @@
 
 # ライセンス
 * このソフトウェアパッケージは、GNU General Public License v3.0の下、使用が許可されます
-* このパッケージは、GNU General Public License v3.0のもとryuichiueda/emcl由来のコード(© 2023 Ryuichi Ueda)を使用しています。
+* このパッケージは、GNU General Public License v3.0のもとshinnosuke1230/robosys2023由来のコード(© 2023 Shinnosuke Saito)を使用しています。
 * このパッケージのコードは下記のスライド( CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としたものです。
 * [ryuichiueda/my slides robosys 2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2023)
 * ©　2023 Shinnosuke Saito
