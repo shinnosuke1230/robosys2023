@@ -5,21 +5,15 @@
 * ファイルplus.pyのプログラムコードは、任意の数を実行時に入力すると、その数までを1から順に足していき、その結果を表示することができるものです。
  
 # インストール方法
-* 1:リポジトリをクローンします。
-  """bash
-  git clone https://github.com/shinnosuke1230/robosys2023.git
-  """ 
-
-* 2:プロジェクトディレクトリに移動します。
-  """bash
-  cd robosys2023/
-  """
-
-* 3:プログラムをビルドします。
-  """bash
-  make
-  """
-
+'''bash
+git clone https://github.com/shinnosuke1230/robosys2023.git
+''' 
+'''bash
+cd robosys2023/
+'''
+'''bash
+make
+'''
 
 # 使用例
 * 下記のように実行します。
