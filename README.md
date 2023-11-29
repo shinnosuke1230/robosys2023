@@ -47,5 +47,5 @@ seq 5 | ./plus.py
 * このソフトウェアパッケージは、GNU General Public License v3.0の下、使用が許可されます
 * このパッケージは、GNU General Public License v3.0由来のコードを使用しています。
 * このパッケージのコードは下記のスライド( CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としたものです。
-* [ryuichiueda/my_slides/robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+* [ryuichiueda.github.io/my_slides/robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * ©　2023 Shinnosuke Saito
