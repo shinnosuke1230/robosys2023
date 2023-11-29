@@ -6,19 +6,19 @@
  
 # インストール方法
 * 1:リポジトリをクローンします。
-* '''bash
+  """bash
   git clone https://github.com/shinnosuke1230/robosys2023.git
-  ''' 
+  """ 
 
 * 2:プロジェクトディレクトリに移動します。
-* '''bash
+  """bash
   cd robosys2023/
-  '''
+  """
 
 * 3:プログラムをビルドします。
-* '''bash
+  """bash
   make
-  '''
+  """
 
 
 # 使用例
