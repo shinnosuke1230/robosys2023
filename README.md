@@ -6,23 +6,27 @@
  
 # インストール方法
 ## リポジトリをクローンします。	
-''' bash
+''' 
+bash
 git clone https://github.com/shinnosuke1230/robosys2023.git
 ''' 
 
 ## プロジェクトディレクトリに移動します。	
-''' bash
+''' 
+bash
 cd robosys2023/
 '''
 ## プログラムをビルドします。
-''' bash
+''' 
+bash
 make
 '''
 
 
 # 使用例
 * 下記のように実行します。
-''' bash
+'''
+bash
 seq 5 | ./plus.py
 '''
 
