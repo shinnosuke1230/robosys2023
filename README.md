@@ -6,15 +6,23 @@
  
 # インストール方法
 * 1:リポジトリをクローンします。
+　　'''bash
     git clone https://github.com/shinnosuke1230/robosys2023.git
+    '''
 * 2:プロジェクトディレクトリに移動します。
+    '''bash
     cd robosys2023/
+    '''
 * 3:プログラムをビルドします。
+    '''bash
 　　make
+    '''
 
 # 使用例
 * 下記のように実行します。
+  '''bash
   seq 5 | ./plus.py
+  '''
 * 実行結果は下記のように表示されます。
   15
 
@@ -32,7 +40,7 @@
 
 # ライセンス
 * このソフトウェアパッケージは、GNU General Public License v3.0の下、使用が許可されます
-* このパッケージは、GNU General Public License v3.0のもとshinnosuke1230/robosys2023由来のコード(© 2023 Shinnosuke Saito)を使用しています。
+* このパッケージは、GNU General Public License v3.0由来のコードを使用しています。
 * このパッケージのコードは下記のスライド( CC-BY-SA 4.0 by Ryuichi Ueda)のものを、本人の許可を得て自身の著作としたものです。
-* [ryuichiueda/my slides robosys 2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2023)
+* [ryuichiueda/my_slides/robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 * ©　2023 Shinnosuke Saito
